@@ -1,9 +1,11 @@
 Insert into Ecolage(Id_Etudiant,Date_de_paye,Paye,Reste,Id_Classe)values(1,'2016-02-14',20000,300000,1);
 Insert into Ecolage(Id_Etudiant,Date_de_paye,Paye,Reste,Id_Classe)values(2,'2011-02-14',10000000,10000000,2);
 Insert into Ecolage(Id_Etudiant,Date_de_paye,Paye,Reste,Id_Classe)values(3,'2014-02-14',500000,500000,3);
+Insert into Ecolage(Id_Etudiant,Date_de_paye,Paye,Reste,Id_Classe)values(1,'2012-01-26',500000,500000,1);
 
 
-Insert into Ecolage(Id_Etudiant,Date_de_paye,Paye,Reste,Id_Classe)values(1,'2012-01-26',500000,500000,1),
+
+
 Insert into Ecolage(Id_Etudiant,Date_de_paye,Paye,Reste,Id_Classe)values(4,'2012-03-26',250000,500000,2),
 																		(5,'2012-04-26',300000,800000,1),
 																		(6,'2012-05-26',600000,400000,1),
