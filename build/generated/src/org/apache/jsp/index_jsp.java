@@ -42,7 +42,7 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       _jspx_resourceInjector = (org.glassfish.jsp.api.ResourceInjector) application.getAttribute("com.sun.appserv.jsp.resource.injector");
 
  
-    response.sendRedirect("page/logEtu.jsp");
+    response.sendRedirect("pages/logEtu.jsp");
 
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){

@@ -1,3 +1,3 @@
 <% 
-    response.sendRedirect("page/logEtu.jsp");
+    response.sendRedirect("pages/logEtu.jsp");
 %>
